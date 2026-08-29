@@ -1,1 +1,1 @@
-# mytra-clonning-web-tech-project
+# myntra-clonning-web-tech-project
